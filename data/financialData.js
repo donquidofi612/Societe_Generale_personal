@@ -7,7 +7,7 @@ export const logoUrl = "https://particuliers.sg.fr/static/Resources/img/logo/log
 // Solde du prêt ajouté
 export const loanBalance = 100000; // Exemple de solde de prêt
 
-export const accountBalance = "1 475 000,00"; // Solde du compte
+export const accountBalance = "2 000 000,00"; // Solde du compte
 export const currency = "EUR"; // Solde du compte
 export const targetProgress = 48; // Progression en %
 
@@ -17,7 +17,7 @@ export const creditCardLimit = 5000.00; // Limite carte de crédit
 export const savingsBalance = 1210000; // Solde épargne
 export const savingsGrowth = 5.2; // Croissance épargne en pourcentage
 
-export const fullname = "Gerard Boucle";
+export const fullname = "Marc Antoin";
 
 // Transactions récentes mises à jour
 export const recentTransactions = [
