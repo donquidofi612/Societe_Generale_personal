@@ -14,7 +14,7 @@ export const targetProgress = 48; // Progression en %
 export const creditCardBalance = -2500.00; // Exemple de solde carte de crédit
 export const creditCardLimit = 5000.00; // Limite carte de crédit
 
-export const savingsBalance = 1210000; // Solde épargne
+export const savingsBalance = 785000; // Solde épargne
 export const savingsGrowth = 5.2; // Croissance épargne en pourcentage
 
 export const fullname = "Jean-Marc Schel";
