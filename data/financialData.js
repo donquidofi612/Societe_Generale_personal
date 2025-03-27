@@ -7,7 +7,7 @@ export const logoUrl = "https://particuliers.sg.fr/static/Resources/img/logo/log
 // Solde du prêt ajouté
 export const loanBalance = 100000; // Exemple de solde de prêt
 
-export const accountBalance = "785.000,00"; // Solde du compte
+export const accountBalance = "761.000,00"; // Solde du compte
 export const currency = "EUR"; // Solde du compte
 export const targetProgress = 48; // Progression en %
 
