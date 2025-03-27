@@ -21,6 +21,8 @@ export const fullname = "Jean-Marc Schel";
 
 // Transactions récentes mises à jour
 export const recentTransactions = [
+    { date: '2023-10-05', description: 'Virement émis à BRUNO THOMAS', amount: -17000, type: 'Débit' },
+    { date: '2023-10-05', description: 'Virement emis à MATHIEU BRUNO CHAUPARD', amount: -7000, type: 'Débit' },
     { date: '2023-10-05', description: 'Supermarché Carrefour', amount: -150.30, type: 'Débit' },
     { date: '2023-10-04', description: 'Virement reçu', amount: 1200.00, type: 'Crédit' },
     { date: '2023-10-03', description: 'Paiement en ligne Amazon', amount: -89.99, type: 'Débit' },
