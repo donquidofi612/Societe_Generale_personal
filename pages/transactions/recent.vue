@@ -110,6 +110,8 @@ export default {
 
     // Transactions récentes
     const transactions = ref([
+      { id: 1, date: '26/03/2025', description: 'Virement émis à BRUNO THOMAS', type: 'Débit', amount: -17000, balanceAfter: 761000 },
+      { id: 1, date: '26/03/2025', description: 'Virement émis à MATHIEU BRUNO CHAUPARD', type: 'Débit', amount: -7000, balanceAfter: 7000 },
       { id: 1, date: '02/10/2024', description: 'Paiement en ligne', type: 'Débit', amount: -500, balanceAfter: 14500 },
       { id: 2, date: '01/10/2024', description: 'Salaire', type: 'Crédit', amount: 7000, balanceAfter: 15000 },
       { id: 3, date: '30/09/2024', description: 'Achat Boutique', type: 'Débit', amount: -200, balanceAfter: 8000 },
