@@ -116,7 +116,7 @@ export default {
       { id: 2, date: '01/10/2024', description: 'Salaire', type: 'Crédit', amount: 7000, balanceAfter: 15000 },
       { id: 3, date: '30/09/2024', description: 'Achat Boutique', type: 'Débit', amount: -200, balanceAfter: 8000 },
       { id: 4, date: '29/09/2024', description: 'Virement', type: 'Crédit', amount: 500, balanceAfter: 8200 },
-      { id: 5, date: '28/09/2024', description: 'Retrait DAB', type: 'Débit', amount: -1000, balanceAfter: 7700 }
+      { id: 5, date: '28/09/2024', description: 'Retrait DAB', type: 'Débit', amount: -1000, balanceAfter: 761000 }
     ]);
 
     // Calcul du total des débits
